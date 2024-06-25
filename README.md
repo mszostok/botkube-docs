@@ -1,4 +1,4 @@
-# BotKube
+# Botkube
 
 ![BotKube logo](/static/images/botkube-title.jpg)
 
